@@ -1,0 +1,6 @@
+{
+  "version": "2.4.0",
+  "release_date": "2026-09-27",
+  "changelog": "Initial release v2.4 with Pure UEFI support and ALSA Buffer Presets.",
+  "package_url": ""
+}
