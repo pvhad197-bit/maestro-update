@@ -1,6 +1,6 @@
 {
   "version": "2.4.2",
-  "release_date": "2026-10-04",
+  "release_date": "2026-10-05",
   "changelog": "Universal ALSA Buffer tuning (10ms-160ms) with persistent memory, Auto-detect Native DSD for XMOS DACs, UI performance improvements",
   "description": "Universal ALSA Buffer tuning (10ms-160ms) with persistent memory, Auto-detect Native DSD for XMOS DACs, UI performance improvements",
   "url": "https://raw.githubusercontent.com/pvhad197-bit/maestro-update/main/maestro_update_v2.4.2.tar.gz",
