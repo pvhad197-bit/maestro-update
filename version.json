@@ -1,8 +1,8 @@
 {
   "version": "2.4.2",
   "release_date": "2026-10-04",
-  "changelog": "Auto-detect XMOS Native DSD (BE/LE), ALSA Buffer Preset persistent, Tight/Relaxed 80ms tuning",
-  "description": "Auto-detect XMOS Native DSD (BE/LE), ALSA Buffer Preset persistent, Tight/Relaxed 80ms tuning",
+  "changelog": "Universal ALSA Buffer tuning (10ms-160ms) with persistent memory, Auto-detect Native DSD for XMOS DACs, UI performance improvements",
+  "description": "Universal ALSA Buffer tuning (10ms-160ms) with persistent memory, Auto-detect Native DSD for XMOS DACs, UI performance improvements",
   "url": "https://raw.githubusercontent.com/pvhad197-bit/maestro-update/main/maestro_update_v2.4.2.tar.gz",
   "package_url": "https://raw.githubusercontent.com/pvhad197-bit/maestro-update/main/maestro_update_v2.4.2.tar.gz",
   "download_url": "https://raw.githubusercontent.com/pvhad197-bit/maestro-update/main/maestro_update_v2.4.2.tar.gz"
