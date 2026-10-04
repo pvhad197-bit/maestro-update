@@ -1,6 +1,6 @@
 {
-  "version": "2.4.0",
-  "release_date": "2026-09-27",
-  "changelog": "Initial release v2.4 with Pure UEFI support and ALSA Buffer Presets.",
-  "package_url": ""
+  "version": "2.4.1",
+  "release_date": "2026-10-04",
+  "description": "Auto-detect XMOS Native DSD (BE/LE), ALSA Buffer Preset persistent, Tight/Relaxed 80ms tuning",
+  "download_url": "https://raw.githubusercontent.com/pvhad197-bit/maestro-update/main/maestro_update_v2.4.tar.gz"
 }
