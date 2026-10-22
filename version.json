@@ -1,7 +1,8 @@
 {
-  "version": "2.4.1",
-  "release_date": "2026-10-12",
-  "url": "https://raw.githubusercontent.com/pvhad197-bit/maestro-update/main/maestro_update_v2.4.1.tar.gz?v=1",
-  "package_url": "https://raw.githubusercontent.com/pvhad197-bit/maestro-update/main/maestro_update_v2.4.1.tar.gz?v=1",
-  "download_url": "https://raw.githubusercontent.com/pvhad197-bit/maestro-update/main/maestro_update_v2.4.1.tar.gz?v=1"
+  "version": "Maestro OS v2.4.2",
+  "name": "Maestro OS v2.4.2",
+  "tag": "v2.4.2",
+  "description": "Chuyển kho nhạc sang phân vùng /storage, chia sẻ Samba [music] trực tiếp và đồng bộ Lyrion",
+  "download_url": "https://raw.githubusercontent.com/pvhad197-bit/maestro-update/main/maestro_update_v2.4.2.tar.gz",
+  "tarball": "maestro_update_v2.4.2.tar.gz"
 }
