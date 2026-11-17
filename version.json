@@ -1,5 +1,4 @@
-{
-  "version": "v1.1",
-  "changelog": "Bo sung tinh nang Hai am bo sung (Additional Harmonics) 32-bit FLOAT",
-  "package_url": "https://raw.githubusercontent.com/pvhad197-bit/maestro-update/main/maestro_update_v1.1.tar.gz"
-}
+  "version": "v1.0",
+  "changelog": "Bat che do multi endpoint",
+  "changelog": "Fix loi o USB va tu dong mount NAS",
+  "package_url": "https://raw.githubusercontent.com/pvhad197-bit/maestro-update/main/maestro_update_v1.0.tar.gz"
